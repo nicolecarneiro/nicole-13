@@ -46,3 +46,7 @@ body {
     font-size: 16px;
     font-weight: 400;
 }
+.container__aviso {
+    font-size: 12px;
+    color: var(--cinza-secundario);
+}

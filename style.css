@@ -1,4 +1,4 @@
-:root {
+ :root{
     --branco-principal: #FFFFFF;
     --cinza-secundario: #C0C0C0;
     --botao-azul: #167BF7;
@@ -41,7 +41,7 @@ body {
 }
 .container__imagem {
     margin: 1em 0 2em 0;
-}
+}:root {
 .container__caixa {
     margin: 0 6em;
 }

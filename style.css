@@ -31,8 +31,9 @@ body {
     padding: 1em;
     color: var(--branco-principal);
     display: block;
-    margin-bottom: 1em;
     text-decoration: none;
+    margin-bottom: 1em;
+    
 }
 .container {
     height: 100vh;
